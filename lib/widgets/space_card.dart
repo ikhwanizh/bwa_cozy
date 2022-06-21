@@ -12,8 +12,8 @@ class SpaceCard extends StatelessWidget {
   Widget build(BuildContext context) {
     return InkWell(
       onTap: () {
-        Navigator.push(
-            context, MaterialPageRoute(builder: (context) => DetailPage()));
+        Navigator.push(context,
+            MaterialPageRoute(builder: (context) => DetailPage(space)));
       },
       child: Row(
         children: [

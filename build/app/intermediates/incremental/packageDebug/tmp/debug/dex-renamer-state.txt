@@ -1,4 +1,4 @@
-#Fri Jun 17 14:31:15 ICT 2022
+#Tue Jun 21 12:08:47 ICT 2022
 base.0=E\:\\Project App\\Flutter\\BWA\\flutter_bwa_cozy\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
